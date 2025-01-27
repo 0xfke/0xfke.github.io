@@ -13,8 +13,10 @@ Welcome to my personal blog and portfolio repository! 🚀 This project showcase
    git clone https://github.com/0xfke/0xfke.github.io.git
    cd 0xfke.github.io
 
-    Install dependencies:
+Install dependencies:
+  ```
    bundle install
+```
 
 Run the project locally:
 
