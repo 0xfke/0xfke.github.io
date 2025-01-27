@@ -48,7 +48,7 @@ Here’s a brief definition for each type of **Cross-Site Scripting (XSS):**
 1. **Stored XSS:**  
     Malicious script is permanently stored on a target server (e.g., in a database or comment section) and executed when users access the infected page.
     
-    ![Stored-xss](https://github.com/0xfke/0xfke.github.io/blob/Images/stored.webp)
+    https://github.com/0xfke/0xfke.github.io/blob/main/Images/stored.png
     
     1.1 **Blind XSS**:
     
