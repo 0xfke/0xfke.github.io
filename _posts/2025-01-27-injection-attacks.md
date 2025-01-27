@@ -3,6 +3,8 @@ title: "Injection Attacks"
 date: 2025-01-27 00:00:00 +0800
 category: [OWASP Top Ten]
 tags: [Injection]
+image: https://raw.githubusercontent.com/0xfke/0xfke.github.io/refs/heads/main/Images/injection_attacks.webp
+alt: "Injection"
 ---
 
 Injection flaws occur when user-controlled input is interpreted as commands or parameters by an application. They are common and can lead to serious security risks, depending on the technologies used and how the input is processed.
