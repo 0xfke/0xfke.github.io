@@ -34,7 +34,7 @@ Injection flaws occur when user-controlled input is interpreted as commands or p
 2. **Input Sanitation:**
     - Strip dangerous characters from input before processing.
 
-Libraries are available to automate these defenses, ensuring safer input handling without manual effort.
+ Libraries are available to automate these defenses, ensuring safer input handling without manual effort.
 
 
 
