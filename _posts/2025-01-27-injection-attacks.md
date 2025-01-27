@@ -57,10 +57,10 @@ Here’s a brief definition for each type of **Cross-Site Scripting (XSS):**
     
 2. **Reflected XSS:**  
     Malicious script is included in a URL or request and executed immediately when the victim clicks the link or interacts with it.
-    ![[Pasted image 20241125092217.png]]
+    ![reflected-xss](https://raw.githubusercontent.com/0xfke/0xfke.github.io/refs/heads/main/Images/reflected_xss.webp)
     Example using Burp-suite
 
-	 ![[Pasted image 20241125092252.png]]
+	 ![burp-example](https://raw.githubusercontent.com/0xfke/0xfke.github.io/refs/heads/main/Images/burp_reflected_example.webp)
     
 3. **DOM-based XSS:**  
     Malicious script is executed by modifying the client-side Document Object Model (DOM) without involving the server, exploiting JavaScript vulnerabilities in the browser.
@@ -71,7 +71,7 @@ Here’s a brief definition for each type of **Cross-Site Scripting (XSS):**
     -  Self-XSS attacks require victims to input a malicious payload themselves. To perform these, attackers must trick users into doing much more than simply viewing a page or browsing to a particular URL.
     
 	- In bug bounties, self-XSS bugs are not usually accepted as valid submissions because they require social engineering. Bugs that require social engineering, or manipulation of the victims, are not usually accepted in bug bounty programs because they are not purely technical issues.
-	![[Pasted image 20241125095340.png]]
+	![why](https://raw.githubusercontent.com/0xfke/0xfke.github.io/refs/heads/main/Images/why_xss.webp)
 # Hunting for XSS 
 Look for XSS in places where user input gets rendered on a page. The process will vary for the different types of XSS, but the central principle remains the same: check for reflected user input.
 Don’t limit yourself to text input fields, either. Sometimes drop-down menus or numeric fields can allow you to perform XSS, because even if you can’t enter your payload on your browser, your proxy might let you insert it directly into the request.
