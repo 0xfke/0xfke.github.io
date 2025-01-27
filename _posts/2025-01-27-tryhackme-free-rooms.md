@@ -3,6 +3,8 @@ title: "Free TryHackMe Rooms"
 date: 2025-01-27 00:00:00 +0800
 category: [Try Hack Me]
 tags: [thm]
+image: https://raw.githubusercontent.com/0xfke/0xfke.github.io/refs/heads/main/Images/thm.webp
+alt: "TreeTryHackMe-rooms.webp"
 ---
 
 ## [](https://pcotret.github.io/tryhackme/#level-1---intro)Level 1 - Intro
