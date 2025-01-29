@@ -2,7 +2,7 @@
 title: "TryHackMe Dunkle Matrie"
 date: 2025-01-29 00:00:00 +0800
 category: [Try Hack Me, Malware Analysis]
-tags: [thm, writeups]
+tags: [thm, writeups, Procdot, malware analysis, Windows, Threat Intel]
 image: Images/Dunk-1.webp
 alt: "TryHackMe Dunkle Matrie"
 ---
@@ -84,7 +84,7 @@ This graphical approach simplifies **malware detection, security incident invest
 ## Question Three
 
 - This ransomware transfers the information about the compromised system and the encryption results to two domains over HTTP POST. What are the two C2 domains? (**no space in the answer**)
-- As we see here there are 3 possible outgoing connections to C2 domains, looking at each Ip using treat intel tools like virus total we find  interesting evidences. 
+- As we see here there are 3 possible outgoing connections to C2 domains, looking at each Ip using *Threat Intel* tools like virus total we find  interesting evidences. 
 
 ![Dunk-10.png](Images/Dunk-10.png)
 
