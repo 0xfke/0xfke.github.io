@@ -71,7 +71,7 @@ When you launch **ProcDOT** and analyze the **System** process (PID 4), the visu
 
 This graphical approach simplifies **malware detection, security incident investigation, and system activity analysis**, allowing for quicker and more effective threat hunting.
 
-- when you find this don't panic, if it looks complex just zoom in using *ctr + scroll*
+- When you find this don't panic, if it looks complex just zoom in using *ctr + scroll*
 
 ![Dunk-8.png](Images/Dunk-8.png)
 
@@ -84,15 +84,15 @@ This graphical approach simplifies **malware detection, security incident invest
 ## Question Three
 
 - This ransomware transfers the information about the compromised system and the encryption results to two domains over HTTP POST. What are the two C2 domains? (**no space in the answer**)
-- As we see here there are 3 possible outgoing connections to C2 domains, looking at each Ip using *Threat Intel* tools like virus total we find  interesting evidences. 
+- As we see here there are 3 possible outgoing connections to C2 domains, looking at each Ip using **Threat Intel**  tools like virus total we find  interesting evidences. 
 
 ![Dunk-10.png](Images/Dunk-10.png)
 
-- directly going to virus total and investigating we find the first malicious domain to be 
+- Directly going to virus total and investigating we find the first malicious domain to be 
 
 ![Dunk-11.png](Images/Dunk-11.png)
 
-- upon close inspection there is no domain name for other two using online tools, we should use the .pcap file and search for **HTTP POST** request.
+- Upon close inspection there is no domain name for other two using online tools, we should use the .pcap file and search for **HTTP POST** request.
 
 
 ![Dunk-12.png](Images/Dunk-12.png)
