@@ -1,7 +1,7 @@
 ---
 title: "Injection Attacks"
 date: 2025-01-27 00:00:00 +0800
-category: [OWASP Top Ten]
+category: [Web Hacking, OWASP Top Ten]
 tags: [Injection]
 image: https://raw.githubusercontent.com/0xfke/0xfke.github.io/refs/heads/main/Images/injection_attacks.webp
 alt: "Injection"
