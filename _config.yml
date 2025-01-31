@@ -16,7 +16,7 @@ timezone: Africa/Addis_Ababa
 
 title: Befikadu Tesfaye # the main title
 
-tagline: Cybersecurity | ECE Student | Content Creator # it will display as the subtitle
+tagline: Cybersecurity Enthusiast & Security Content Creator # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Ethiopia hacking walkthroughs, cybersecurity in ethiopia, Sharing cybersecurity walkthroughs, ethical hacking tutorials, and secure coding tips.
@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/0xfke # change to your Twitter homepage
-    # - https://github.com/0xfke # change to your GitHub homepage
+    - https://github.com/0xfke # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/befikadu-tesfaye
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -118,14 +118,14 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: 0xfke/0xfke.github.io # <gh-username>/<repo>
+    repo_id: R_kgDONv-R6g
+    category: General
+    category_id: DIC_kwDONv-R6s4Cmg3z
     mapping: # optional, default to 'pathname'
-    strict: # optional, default to '0'
+    strict: 1 # optional, default to '0'
     input_position: # optional, default to 'bottom'
-    lang: # optional, default to the value of `site.lang`
+    lang: en # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
