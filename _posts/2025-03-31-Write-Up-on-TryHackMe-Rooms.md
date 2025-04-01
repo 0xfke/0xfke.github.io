@@ -1,8 +1,8 @@
 ---
-title: "Write Up on TryHackMe Rooms"
+title: "Write Up on TryHackMe CTF Challenges"
 date: 2025-01-29 00:00:00 +0800
-category: [Free TryHackMe Rooms Writup, Recon]
-tags: [thm, writeups, web hacking, Threat Intel, red team]
+category: [Free TryHackMe CTF Challenge Writup, Easy]
+tags: [thm, writeups]
 image: Images/WriteUp-Image/bbcs.writup.webp
 alt: "Free TryHackMe Rooms Writup"
 ---
