@@ -6,7 +6,6 @@ order: 4
 
 [![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FF40&pause=500&center=true&random=false&width=1200&lines=$+Hi+there,+I'm+Befikadu+Tesfaye!+AKA+"0xfke"+👋;)](https://git.io/typing-svg) 
 
-# About Me
 
 ![Befikadu Tesfaye](https://media.licdn.com/dms/image/v2/D4E03AQHHHFfsD1k2eg/profile-displayphoto-shrink_400_400/B4EZVG34ybGgAk-/0/1740650812052?e=1749081600&v=beta&t=6MYrt7GtFJ2ckmCCH0dXq8I6EbWO5qEgqXJzPNrOWkU)  
 
