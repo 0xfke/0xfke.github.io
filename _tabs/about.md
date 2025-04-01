@@ -30,7 +30,7 @@ I'm a cybersecurity researcher, penetration tester, and ethical hacker with a st
 
 - **Linkedin**: [Befikadu Tesfaye](https://www.linkedin.com/in/befikadu-tesfaye)
 - **Telegram**: [Buna Byte Cybersecurity](https://t.me/bunabytecs)
-- **YouTube**: [Buna Byte](https://www.youtube.com/c/BunaByte)
+- **YouTube**: [Buna Byte](https://www.youtube.com/bunabyte)
 - **GitHub**: [@Befikadu Tesfaye](https://github.com/0xfke)
 
 🚀 _Let's build a more secure world together!_
