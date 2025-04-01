@@ -1,13 +1,13 @@
 ---
 title: "Write Up on TryHackMe 100 Rooms"
 date: 2025-01-29 00:00:00 +0800
-category: [TryHackMe 100 CTF Challenges, Easy]
-tags: [thm, writeups, malware analysis, Windows, Threat Intel, red team, blue team]
+category: [Free TryHackMe Rooms Writup, Recon]
+tags: [thm, writeups, web hacking, Threat Intel, red team]
 image: Images/WriteUp-Image/bbcs.writup.webp
-alt: "Write Up on TryHackMe 100 Rooms"
+alt: "Free TryHackMe Rooms Writup"
 ---
 
-Welcome to my latest cybersecurity journey! I am launching a comprehensive TryHackMe walkthrough series, covering 100 different rooms across various cybersecurity fields. This walkthrough aims to guide both beginners and advanced learners through structured hands-on challenges, enhancing their hacking, security skills and also my writing and reporting skills. Each week, I will try to upload three detailed walkthrough videos along with corresponding write-ups to ensure a deeper understanding of each topic.
+Welcome to my latest cybersecurity journey! I am launching a comprehensive TryHackMe walkthrough series, covering different rooms across various cybersecurity fields. This walkthrough aims to guide both beginners and advanced learners through structured hands-on challenges, enhancing their hacking, security skills and also my writing and reporting skills. Each week, I will try to upload three detailed walkthrough videos along with corresponding write-ups to ensure a deeper understanding of each topic.
 
 ## **Why This Series?** 
 
@@ -32,7 +32,7 @@ As a busy student with various commitments, balancing studies, work, and content
 
 **How This Will Work**
 
-1. **Room Selection:** I will carefully pick 100 TryHackMe rooms, categorized by skill level and domain.
+1. **Room Selection:** I will carefully pick Free TryHackMe rooms, categorized by skill level and domain.
     
 2. **Content Creation:** Each room will have:
     
@@ -40,7 +40,7 @@ As a busy student with various commitments, balancing studies, work, and content
         
     - A structured blog write-up covering key concepts, commands, and methodologies.
         
-3. **Weekly Schedule:** Three videos and blogs will be uploaded per week (as much as my schedule allows).
+3. **Weekly Schedule:** Videos and blogs will be uploaded per week (as much as my schedule allows).
     
 4. **Community Engagement:** Viewers can ask questions, discuss techniques, and suggest topics for future walkthroughs.
     
