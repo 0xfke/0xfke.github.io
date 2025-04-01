@@ -1,5 +1,5 @@
 ---
-title: "Write Up on TryHackMe 100 Rooms"
+title: "Write Up on TryHackMe Rooms"
 date: 2025-01-29 00:00:00 +0800
 category: [Free TryHackMe Rooms Writup, Recon]
 tags: [thm, writeups, web hacking, Threat Intel, red team]
