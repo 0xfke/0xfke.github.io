@@ -8,7 +8,7 @@ alt: "wgel ctf"
 ---
 
 Can you exfiltrate the root flag?
-<img src="Images/WriteUp-Image/THM/Easy/wgelctf/Wgel CTF2.png" alt="Wgel CTF2" width="500"/>
+![wgel2](Images/WriteUp-Image/THM/Easy/wgelctf/Wgel-CTF2.png)
 
 
 This CTF (Capture The Flag) challenge is a **Easy level Linux box** focused on **privilege escalation and enumeration**. The goal is to gain access to the system, escalate privileges to root, and retrieve the necessary flags.
@@ -67,7 +67,7 @@ http://10.10.188.189 # chang this to your ip http://ip
 
 Check out the HTTP page. We are greeted with a default Apache2 page.
 
-![[Wgel CTF3.png.webp]]
+![wgel3](Images/WriteUp-Image/THM/Easy/wgelctf/Wgel-CTF3.png)
 ## Step 2: Enumerating the Web Server with dirsearch
 
 ### Command Used:
@@ -104,7 +104,7 @@ Target: http://10.10.188.189/
     
 Going to our discovered hidden directory.
 
-![[Wgel CTF4.png.png]]
+![wgel4](Images/WriteUp-Image/THM/Easy/wgelctf/Wgel-CTF4.png)
 
  Looking into the page source found possible username for further research. 
 
@@ -112,7 +112,7 @@ Going to our discovered hidden directory.
 username = jessie
 ```
 
-![[Wgel CTF5.png.png]]
+![wgel5](Images/WriteUp-Image/THM/Easy/wgelctf/Wgel-CTF5.png)
 
 
 ---
@@ -159,9 +159,9 @@ Task Completed
 
 - `/sitemap/.ssh/id_rsa` was found and going to /sitemap/.ssh/id_rsa directly found an interesting directory with possible ssh private key
 
-![[Wgel CTF6.png.png]]
+![wgel6](Images/WriteUp-Image/THM/Easy/wgelctf/Wgel-CTF6.png)
 
-![[Pasted image 20250401215101.png]]
+![wgel7](Images/WriteUp-Image/THM/Easy/wgelctf/Wgel-CTF7.png)
 
 - This file is likely an **SSH private key**, which can be used to log in to the system.
     
