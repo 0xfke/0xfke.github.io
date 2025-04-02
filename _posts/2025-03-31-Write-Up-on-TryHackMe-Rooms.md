@@ -1,6 +1,6 @@
 ---
 title: "Write Up on TryHackMe CTF Challenges"
-date: 2025-01-29 00:00:00 +0800
+date: 2025-03-29 00:00:00 +0800
 category: [Try Hack Me, Blog]
 tags: [thm, writeups]
 image: Images/WriteUp-Image/bbcs.writup.webp
