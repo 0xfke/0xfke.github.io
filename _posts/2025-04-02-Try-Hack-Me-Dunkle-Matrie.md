@@ -1,6 +1,6 @@
 ---
 title: "TryHackMe | Dunkle Matrie"
-date: 2025-02-21 00:00:00 +0800
+date: 2025-01-29 00:00:00 +0800
 category: [Try Hack Me, Medium]
 tags: [thm, writeups, Procdot, malware analysis, Windows, Threat Intel]
 image: Images/Dunk-thm/Dunk-1.webp
