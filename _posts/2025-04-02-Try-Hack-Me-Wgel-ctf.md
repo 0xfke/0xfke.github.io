@@ -67,7 +67,7 @@ http://10.10.188.189 # chang this to your ip http://ip
 
 Check out the HTTP page. We are greeted with a default Apache2 page.
 
-![wgel3](Images/WriteUp-Image/THM/Easy/wgelctf/Wgel-CTF3.png)
+![wgel3](Images/WriteUp-Image/THM/Easy/wgelctf/Wgel-CTF3.webp)
 ## Step 2: Enumerating the Web Server with dirsearch
 
 ### Command Used:
