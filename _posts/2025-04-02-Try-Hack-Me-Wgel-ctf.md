@@ -12,6 +12,9 @@ Can you exfiltrate the root flag?
 
 
 This CTF (Capture The Flag) challenge is a **Easy level Linux box** focused on **privilege escalation and enumeration**. The goal is to gain access to the system, escalate privileges to root, and retrieve the necessary flags.
+
+[Room Access Link](https://tryhackme.com/room/wgelctf) 
+
 ## Step 1: Initial Reconnaissance with Nmap
 
 ### Command Used:
