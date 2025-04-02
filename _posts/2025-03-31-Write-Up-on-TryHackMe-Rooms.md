@@ -45,5 +45,36 @@ As a busy student with various commitments, balancing studies, work, and content
 4. **Community Engagement:** Viewers can ask questions, discuss techniques, and suggest topics for future walkthroughs.
     
 
+I'll be solving the following challenges and rooms, so feel free to follow along and learn together:
 
-**What’s Next?** In the next blog post, I will reveal the first set of rooms we’ll be covering. Stay tuned for exciting, hands-on cybersecurity content! If you’re eager to learn and grow in the field, make sure to follow along and engage with the content.
+➡ **[500 Free TryHackMe Rooms](https://github.com/0xfke/500-free-TryHackMe-rooms)** 
+
+## 🏆 TryHackMe Walkthrough Series – Categorized Challenges  
+
+🔹 **Easy CTF** 
+🔹 **Medium CTF**  
+🔹 **Hard CTF**  
+🔹 **Insane CTF**
+
+### 🛠️ What You'll Learn:
+- **Reconnaissance & OSINT**
+- **Web Exploitation**
+- **Network Security & Enumeration**
+- **Privilege Escalation**
+- **Reverse Engineering & Malware Analysis**
+- **Red Teaming & CTF Tactics**
+
+---
+
+### 📌 First Walkthrough is Out!  
+The first room in this series is **Wgel CTF** 🕵️‍♂️🔍. Check out the write-up here:  
+➡ **[TryHackMe - Wgel CTF Walkthrough](https://0xfke.github.io/posts/Try-Hack-Me-Wgel-ctf/)**  
+
+---
+
+### 📌 How You Can Follow Along:
+- **Read my detailed write-ups** 📖 with commands, explanations, and screenshots.  
+- **Watch my YouTube tutorials** 🎥 for an interactive experience.  
+- **Try the rooms yourself** and discuss your approach in the comments!  
+
+Let’s build skills together! Stay tuned for more walkthroughs. 🔥💻
