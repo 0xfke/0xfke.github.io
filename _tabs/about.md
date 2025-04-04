@@ -14,19 +14,21 @@ order: 1
 </div>
 
 
-I’m a self-taught cybersecurity researcher, penetration tester, and ethical hacker with a strong passion for innovation and security. I thrive on exploring cybersecurity challenges, breaking things ethically to make them safe, and sharing knowledge with others. My journey has been driven by continuous self-learning, utilizing platforms like YouTube, TryHackMe, and Hack The Box to hone my technical skills. I learn by doing — building real-world cybersecurity projects, participating in CTFs, and constantly refining my knowledge through hands-on applications.
+I’m a self-taught cybersecurity researcher, penetration tester, and ethical hacker with a strong passion for innovation and security. I thrive on exploring cybersecurity challenges, breaking things ethically to make them safe, and sharing knowledge with others.
 
 ## 🔥 What I Do
 
 - **Cybersecurity Enthusiast**:
   > Specializing in ethical hacking, malware analysis, and penetration testing.
+
 - **Content Creator & Instructor**:
   > Founder of [**Buna Byte Cybersecurity**](https://www.youtube.com/@bunabyte), startup where I teach cybersecurity for beginner levels.
 
 - **CTF Player & Mentor**:
   > Mentoring newcomers at [**AASTU CSC**](https://www.linkedin.com/company/aastu-cyber-security), and actively engaging in cybersecurity competitions.
+
 - **Malware Analyst**:
-  > Experimenting with **FlareVM, REMnux, and Windows Sandbox** for reverse engineering and malware research..
+  > Experimenting with **FlareVM, REMnux, and Windows Sandbox** for reverse engineering and malware research.
 
 ## 🛠️ Tech Stack & Interests
 
