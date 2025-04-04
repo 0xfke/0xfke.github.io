@@ -14,7 +14,7 @@ order: 4
 </div>
 
 
-I'm a cybersecurity researcher, penetration tester, and ethical hacker with a strong passion for innovation and security. I thrive on exploring cybersecurity challenges, breaking things ethically, and sharing knowledge with others.
+I’m a self-taught cybersecurity researcher, penetration tester, and ethical hacker with a strong passion for innovation and security. I thrive on exploring cybersecurity challenges, breaking things ethically to make them safe, and sharing knowledge with others. My journey has been driven by continuous self-learning, utilizing platforms like YouTube, TryHackMe, and Hack The Box to hone my technical skills. I learn by doing — building real-world cybersecurity projects, participating in CTFs, and constantly refining my knowledge through hands-on applications.
 
 ## 🔥 What I Do
 
@@ -30,10 +30,14 @@ I'm a cybersecurity researcher, penetration tester, and ethical hacker with a st
 
 ## 🛠️ Tech Stack & Interests
 
-- **Languages**: Python, C, C++, PowerShell, Bash
-- **Platforms**: Windows, Linux, Virtualization (VMware, Hyper-V, Windows Sandbox)
-- **Security Tools**: Burp Suite, Metasploit, Wireshark, Nmap, IDA Pro, Ghidra
-- **Other Interests**: IoT, Microcontrollers, Reverse Engineering
+- **Languages**:
+  > Python, C, C++, PowerShell, Bash...
+- **Platforms**:
+  > Windows, Linux, Virtualization (VMware, Hyper-V, Windows Sandbox)...
+- **Security Tools**:
+  > Burp Suite, Metasploit, Wireshark, Nmap, IDA Pro, Ghidra...
+- **Other Interests**:
+  > IoT, Microcontrollers, Reverse Engineering...
 
 ## 📫 Connect With Me
 
