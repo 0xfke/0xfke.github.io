@@ -100,7 +100,7 @@ This tool integrates two key methods to detect potential threats, providing user
 - [Machine Learning-Based Detection](#machine-learning-based-detection)
 - [Technologies Used by ML](#technologies-used-by-ml)
 - [Feature Selection and Model Training](#feature-selection-and-model-training)
-- [File Types Supported by ML](#file-types-supported-by-ml)
+- File Types Supported by ML
 - [DEMO ML](#demo-ml)
 
 
