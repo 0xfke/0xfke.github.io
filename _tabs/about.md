@@ -26,11 +26,12 @@ I’m a self-taught cybersecurity researcher, penetration tester, and ethical ha
 
 - **CTF Player & Mentor**:
   > Mentoring newcomers at [**AASTU CSC**](https://www.linkedin.com/company/aastu-cyber-security), and actively engaging in cybersecurity competitions.
+  > [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xfke)
 
 - **Malware Analyst**:
   > Experimenting with **FlareVM, REMnux, and Windows Sandbox** for reverse engineering and malware research.
 
-## 🛠️ Tech Stack & Interests
+## ⚡️ Tech Stack & Interests
 
 - **Languages**:
   > Python, C, C++, PowerShell, Bash...
@@ -41,11 +42,9 @@ I’m a self-taught cybersecurity researcher, penetration tester, and ethical ha
 - **Other Interests**:
   > IoT, Microcontrollers, Reverse Engineering...
 
-## 📫 Connect With Me
+## 🤙 Connect With Me
 
-- **Linkedin**: [Befikadu Tesfaye](https://www.linkedin.com/in/befikadu-tesfaye)
-- **Telegram**: [Buna Byte Cybersecurity](https://t.me/bunabytecs)
-- **YouTube**: [Buna Byte](https://www.youtube.com/@bunabyte)
-- **GitHub**: [@Befikadu Tesfaye](https://github.com/0xfke)
-
-🚀 _Let's build a more secure world together!_
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BefikaduTesfaye-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/befikadu-tesfaye/)
+[![Instagram](https://img.shields.io/badge/Instagram-BefikaduTesfaye-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xfke)
+[![Telegram](https://img.shields.io/badge/Telegram-BunaByte-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/bunabytecs)
+[![YouTube](https://img.shields.io/badge/YouTube-BunaByte-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@bunabyte?sub_confirmation=1) 
