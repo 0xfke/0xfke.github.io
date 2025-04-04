@@ -3,7 +3,7 @@ title: "Malware Detection using Machine Learning"
 date: 2024-10-20 00:00:00 +0800
 category: [Projects, ML for cyber]
 tags: [Project, ml for cyber, blue team]
-image: https://repository-images.githubusercontent.com/878342971/f4cf8c7a-b6cf-4e0e-82a5-18c3dcd5c1d5
+image: Images/Projects/wed-removebg-preview-1.webp
 alt: "mdaml"
 ---
 
