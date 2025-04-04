@@ -18,18 +18,15 @@ I'm a cybersecurity researcher, penetration tester, and ethical hacker with a st
 
 ## 🔥 What I Do
 
-- **Cybersecurity Enthusiast**: Specializing in ethical hacking, malware analysis, and penetration testing.
-- **Content Creator & Instructor**: Founder of [**Buna Byte Cybersecurity**](https://www.youtube.com/@bunabyte), startup where I teach cybersecurity for beginner levels.
+- **Cybersecurity Enthusiast**:
+  > Specializing in ethical hacking, malware analysis, and penetration testing.
+- **Content Creator & Instructor**:
+  > Founder of [**Buna Byte Cybersecurity**](https://www.youtube.com/@bunabyte), startup where I teach cybersecurity for beginner levels.
 
-  <div align="center">
-  <a href="https://www.youtube.com/embed?listType=user_uploads&list=bunabyte" target="_self">
-    <img src="https://img.youtube.com/vi/vr5ePoAKJRA/maxresdefault.jpg" alt="Buna Byte YouTube" width="500" style="border-radius: 10px;">
-  </a>
-  <p>Click to watch the latest video on my YouTube channel!</p>
-</div>
-
-- **CTF Player & Mentor**: Mentoring newcomers at [**AASTU CSC**](https://www.linkedin.com/company/aastu-cyber-security), and actively engaging in cybersecurity competitions.
-- **Malware Analyst**: Experimenting with **FlareVM, REMnux, and Windows Sandbox** for reverse engineering and malware research..
+- **CTF Player & Mentor**:
+  > Mentoring newcomers at [**AASTU CSC**](https://www.linkedin.com/company/aastu-cyber-security), and actively engaging in cybersecurity competitions.
+- **Malware Analyst**:
+  > Experimenting with **FlareVM, REMnux, and Windows Sandbox** for reverse engineering and malware research..
 
 ## 🛠️ Tech Stack & Interests
 
