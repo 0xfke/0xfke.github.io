@@ -1,5 +1,5 @@
 ---
-title: "Malware Detection and Analysis using Machine Learning"
+title: "Malware Detection using Machine Learning"
 date: 2024-10-20 00:00:00 +0800
 category: [Projects, ML for cyber]
 tags: [Project, ml for cyber, blue team]
@@ -79,7 +79,7 @@ Below is a quick walkthrough demonstrating the **Static Analysis using API** fea
     - **Scan Date**: Date of the last scan for the submitted file/URL.
     - **Detection Ratio**: Ratio of the VirusTotal engines that detected a threat.
     - **Detailed Results**: A breakdown of results from different scanning engines.
-![apiworkflow](Image/apiworkflow.png)
+
 ---
 
 ### Benefits of Static Analysis using API
@@ -161,7 +161,7 @@ Below is a visual walkthrough showing how the **Machine Learning-Based Detection
 *Description: The user selects an executable file for analysis.*
 
 **Analysis Results**  
-![Analysis Results](path/to/analysis_results_image.png)  
+
 *Description: Results of the ML-based detection showing whether the file is benign or malicious.*
 
 > **Video Demo**  
