@@ -133,11 +133,14 @@ The model focuses on the most important features extracted from the PE headers o
 3. **Model Training**: A Random Forest model is trained on the filtered feature set, allowing it to distinguish between benign and malicious executables with high precision.
 
 **Model Performance**  
+
+
 | Metric         | Precision | Recall | F1-score | Accuracy |
 |----------------|-----------|--------|----------|----------|
 | **Benign**     | 1.00      | 0.97   | 0.98     | 1003     |
 | **Malware**    | 0.99      | 1.00   | 0.99     | 2920     |
 | **Overall**    | -         | -      | -        | 99%      |
+
 
 ---
 
