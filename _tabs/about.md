@@ -7,7 +7,12 @@ order: 4
 [![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FF40&pause=500&center=true&random=false&width=1200&lines=$+Hi+there,+I'm+Befikadu+Tesfaye!+AKA+"0xfke"+👋;)](https://git.io/typing-svg) 
 
 
-![Befikadu Tesfaye](Images/bd11d19f-c5ef-4034-a374-660c3f2f1fda-removebg-preview-Picsart-AiImageEnhancer.png)  
+<div align="center">
+  <img src="Images/bd11d19f-c5ef-4034-a374-660c3f2f1fda-removebg-preview-Picsart-AiImageEnhancer.png" 
+       alt="Befikadu Tesfaye" 
+       style="border: 4px solid #ff5733; border-radius: 10px; width: 250px;">
+</div>
+
 
 I'm a cybersecurity researcher, penetration tester, and ethical hacker with a strong passion for innovation and security. I thrive on exploring cybersecurity challenges, breaking things ethically, and sharing knowledge with others.
 
