@@ -10,7 +10,7 @@ order: 4
 <div align="center">
   <img src="Images/bd11d19f-c5ef-4034-a374-660c3f2f1fda-removebg-preview-Picsart-AiImageEnhancer.png" 
        alt="Befikadu Tesfaye" 
-       style="border: 4px solid #ff5733; border-radius: 10px; width: 250px;">
+       style="border: 4px solid #00FF40; border-radius: 10px; width: 250px;">
 </div>
 
 
