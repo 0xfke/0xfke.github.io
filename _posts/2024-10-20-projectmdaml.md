@@ -54,17 +54,17 @@ The tool supports the following file types for static analysis:
 Below is a quick walkthrough demonstrating the **Static Analysis using API** feature in action.
 
 **Upload Page**  
-![Upload Page](https://github.com/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning/blob/84be2889ed7c2c6ff4511944d3ef11746c571383/Image/Staticw.png)  
+![Upload Page](Images/Projects/mdaml/Images/Staticw.png)  
 *Description: A user selects a file from their local directory for analysis.*
 
 **Result Page**  
-![Result Page](https://github.com/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning/blob/84be2889ed7c2c6ff4511944d3ef11746c571383/Image/apiresult1.png)
-![Result Page](https://github.com/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning/blob/84be2889ed7c2c6ff4511944d3ef11746c571383/Image/apiresult2.png)
+![Result Page](Images/Projects/mdaml/Images/apiresult1.png)
+![Result Page](Images/Projects/mdaml/Images/apiresult2.png)
 *Description: Analysis results showing threat intelligence based on VirusTotal’s database.*
 
 > **Video Demo**  
 > For a more detailed demonstration, watch the video below:  
-> [![Watch the Demo](https://github.com/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning/blob/84be2889ed7c2c6ff4511944d3ef11746c571383/Image/Staticw.png)](https://youtu.be/QN3fpPI5HrU)
+> [![Watch the Demo](Images/Projects/mdaml/Images/Staticw.png)](https://youtu.be/QN3fpPI5HrU)
 
 ---
 
@@ -157,7 +157,7 @@ This feature is specifically designed for the following file types:
 Below is a visual walkthrough showing how the **Machine Learning-Based Detection** feature works.
 
 **Upload Page**  
-![Upload Page](https://github.com/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning/blob/84be2889ed7c2c6ff4511944d3ef11746c571383/Image/mlw.png)  
+![Upload Page](Images/Projects/mdaml/Images/mlw.png)  
 *Description: The user selects an executable file for analysis.*
 
 **Analysis Results**  
@@ -166,7 +166,7 @@ Below is a visual walkthrough showing how the **Machine Learning-Based Detection
 
 > **Video Demo**  
 > For a detailed walkthrough, watch the video below:  
-> [![Watch the Demo](https://github.com/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning/blob/84be2889ed7c2c6ff4511944d3ef11746c571383/Image/mlw.png)](https://youtu.be/ETgdAF1WzU8)
+> [![Watch the Demo](Images/Projects/mdaml/Images/mlw.png)](https://youtu.be/ETgdAF1WzU8)
 
 ---
 
@@ -176,7 +176,7 @@ Below is a visual walkthrough showing how the **Machine Learning-Based Detection
 2. **Feature Extraction**: The system extracts PE header features and selects only the most important features based on prior analysis.
 3. **Model Prediction**: The Random Forest model uses the extracted features to predict if the file is benign or malicious.
 4. **Result Display**: The application displays the result on a user-friendly interface, including probability scores and model confidence.
-   ![ML workflow](https://github.com/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning/blob/84be2889ed7c2c6ff4511944d3ef11746c571383/Image/mlworkflow.png)
+   ![ML workflow](Images/Projects/mdaml/Images/mlworkflow.png)
 ---
 
 ### Benefits of Machine Learning-Based Detection
@@ -201,11 +201,11 @@ This ML-based approach complements the static analysis, providing a comprehensiv
 
 Using a Random Forest Classifier, we evaluated the importance of different features to identify the most significant ones for malware detection. By filtering the features based on their importances, we set a threshold to select only the most relevant features for training our model. This approach enhances the model's efficiency and accuracy.
 ### Before Selection of Features According to Their Importances
-![Feature Importances](https://github.com/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning/blob/84be2889ed7c2c6ff4511944d3ef11746c571383/Image/bar1.png) 
+![Feature Importances](Images/Projects/mdaml/Images/bar1.png) 
 
 ### After Selection of Features According to Their Importances
 
-![Feature Importances](https://github.com/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning/blob/84be2889ed7c2c6ff4511944d3ef11746c571383/Image/bar2.png)
+![Feature Importances](Images/Projects/mdaml/Images/bar2.png)
 
 
 ### Training a New Model Based on Important Features
@@ -238,13 +238,13 @@ The results demonstrate high performance for both training and validation sets, 
 
 To assess the model's performance over different training set sizes, we generated learning curves. These curves help visualize how the model's accuracy evolves as more training data is added.
 
-![Learning Curves](https://github.com/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning/blob/84be2889ed7c2c6ff4511944d3ef11746c571383/Image/bar3.png) 
+![Learning Curves](Images/Projects/mdaml/Images/bar3.png) 
 
 ### Training and Validation Scores by Training Set Size
 
 The bar chart below displays the average training and validation scores along with their standard deviations across various training set sizes.
 
-![Training and Validation Scores](https://github.com/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning/blob/84be2889ed7c2c6ff4511944d3ef11746c571383/Image/bar4.png)
+![Training and Validation Scores](Images/Projects/mdaml/Images/bar4.png)
 
 ---
 
