@@ -185,7 +185,6 @@ Below is a visual walkthrough showing how the **Machine Learning-Based Detection
   allowfullscreen>
 </iframe>
 
-
 ---
 
 ### How It Works
