@@ -9,6 +9,15 @@ alt: "Free TryHackMe Rooms Writup"
 
 Welcome to my latest cybersecurity journey! I am launching a comprehensive TryHackMe walkthrough series, covering different rooms across various cybersecurity fields. This walkthrough aims to guide both beginners and advanced learners through structured hands-on challenges, enhancing their hacking, security skills and also my writing and reporting skills. Each week, I will try to upload three detailed walkthrough videos along with corresponding write-ups to ensure a deeper understanding of each topic.
 
+<iframe width="100%" height="400"
+  src="https://www.youtube.com/embed/hKhCP_sUQ3g?si=6-8j9ZRhZsf-iBOK"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
+
 ## **Why This Series?** 
 
 ![Why](Images/why.webp)
