@@ -66,7 +66,7 @@ Below is a quick walkthrough demonstrating the **Static Analysis using API** fea
 > For a more detailed demonstration, watch the video below:  
 
 <iframe width="100%" height="400"
-  src="https://www.youtube.com/embed/ETgdAF1WzU8?si=ITPbge7QLHGG8HFI"
+  src="https://www.youtube.com/embed/QN3fpPI5HrU?si=daJTmrssQ5gf0k99"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -175,9 +175,8 @@ Below is a visual walkthrough showing how the **Machine Learning-Based Detection
 
 > **Video Demo**  
 > For a detailed walkthrough, watch the video below:  
-
 <iframe width="100%" height="400"
-  src="https://www.youtube.com/embed/QN3fpPI5HrU?si=daJTmrssQ5gf0k99"
+  src="https://www.youtube.com/embed/ETgdAF1WzU8?si=ITPbge7QLHGG8HFI"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
