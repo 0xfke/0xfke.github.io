@@ -44,14 +44,7 @@ I’m a self-taught cybersecurity researcher, penetration tester, and ethical ha
   
 ## Latest Youtube Video
 
-<iframe width="100%" height="500"
-  src="https://www.youtube.com/embed/hKhCP_sUQ3g?si=6-8j9ZRhZsf-iBOK"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin"
-  allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hKhCP_sUQ3g?si=knN7a45nG1UmoVUF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 🤙 Connect With Me
 
