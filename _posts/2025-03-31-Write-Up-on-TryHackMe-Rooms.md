@@ -72,17 +72,7 @@ The first room in this series is **Wgel CTF** 🕵️‍♂️🔍. Check out th
 ➡ **[TryHackMe - Wgel CTF Walkthrough](https://0xfke.github.io/posts/Try-Hack-Me-Wgel-ctf/)**  
 
 ---
-
-
-
-<iframe width="100%" height="400"
-  src="https://www.youtube.com/embed/hKhCP_sUQ3g?si=6-8j9ZRhZsf-iBOK"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin"
-  allowfullscreen>
-</iframe>
+ 
 
 ### 📌 How You Can Follow Along:
 - **Read my detailed write-ups** 📖 with commands, explanations, and screenshots.  
@@ -90,3 +80,5 @@ The first room in this series is **Wgel CTF** 🕵️‍♂️🔍. Check out th
 - **Try the rooms yourself** and discuss your approach in the comments!  
 
 Let’s build skills together! Stay tuned for more walkthroughs. 🔥💻
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hKhCP_sUQ3g?si=knN7a45nG1UmoVUF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
