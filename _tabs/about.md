@@ -27,7 +27,11 @@ I’m a self-taught cybersecurity researcher, penetration tester, and ethical ha
 - **CTF Player & Mentor**:
   > Mentoring newcomers at [**AASTU CSC**](https://www.linkedin.com/company/aastu-cyber-security), and actively engaging in cybersecurity competitions.
   > [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xfke)
-  > <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2498267" style='border:none;'></iframe>
+
+{% raw %}
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2498267" style="border: none;" width="100%" height="300px" loading="lazy"></iframe>
+{% endraw %}
+
 
 - **Malware Analyst**:
   > Experimenting with **FlareVM, REMnux, and Windows Sandbox** for reverse engineering and malware research.
