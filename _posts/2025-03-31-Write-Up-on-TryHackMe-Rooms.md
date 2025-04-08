@@ -81,4 +81,4 @@ The first room in this series is **Wgel CTF** 🕵️‍♂️🔍. Check out th
 
 Let’s build skills together! Stay tuned for more walkthroughs. 🔥💻
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hKhCP_sUQ3g?si=knN7a45nG1UmoVUF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include embed/youtube.html id='hKhCP_sUQ3g' %}
