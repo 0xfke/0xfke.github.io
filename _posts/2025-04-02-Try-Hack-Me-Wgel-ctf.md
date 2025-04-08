@@ -3,7 +3,7 @@ title: "TryHackMe | Wgel CTF Write Up 01"
 date: 2025-04-02 00:00:00 +0800
 category: [Try Hack Me, Easy]
 tags: [thm, writeups, web, boot to root]
-image: Images/WriteUp-Image/THM/Easy/wgelctf/8116d1d52d3a63dd1e7c2e7ddce8a0d5.webp
+image: Images/WriteUp-Image/THM/Easy/wgelctf/Wgel_CTF.webp
 alt: "wgel ctf"
 ---
 
