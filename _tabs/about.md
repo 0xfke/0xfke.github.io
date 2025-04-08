@@ -26,7 +26,6 @@ I’m a self-taught cybersecurity researcher, penetration tester, and ethical ha
 
 - **CTF Player & Mentor**:
   > Mentoring newcomers at [**AASTU CSC**](https://www.linkedin.com/company/aastu-cyber-security), and actively engaging in cybersecurity competitions.
-  > [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xfke)
   > <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2498267" style="border:none;width:327px;height:84px;"></iframe>
 
 
