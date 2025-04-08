@@ -74,7 +74,7 @@ Below is a quick walkthrough demonstrating the **Static Analysis using API** fea
   allowfullscreen>
 </iframe>
 
-
+{% include embed/youtube.html id='daJTmrssQ5gf0k99' %}
 ---
 
 ### How It Works
