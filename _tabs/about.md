@@ -41,10 +41,6 @@ I’m a self-taught cybersecurity researcher, penetration tester, and ethical ha
   > Burp Suite, Metasploit, Wireshark, Nmap, IDA Pro, Ghidra...
 - **Other Interests**:
   > IoT, Microcontrollers, Reverse Engineering...
-  
-## Latest Youtube Video
-
-{% include embed/youtube.html id='hKhCP_sUQ3g' %}
 
 ## 🤙 Connect With Me
 
@@ -52,3 +48,8 @@ I’m a self-taught cybersecurity researcher, penetration tester, and ethical ha
 [![Instagram](https://img.shields.io/badge/Instagram-BefikaduTesfaye-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xfke)
 [![Telegram](https://img.shields.io/badge/Telegram-BunaByte-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/bunabytecs)
 [![YouTube](https://img.shields.io/badge/YouTube-BunaByte-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@bunabyte?sub_confirmation=1) 
+
+## Latest Youtube Video
+
+{% include embed/youtube.html id='hKhCP_sUQ3g' %}
+
