@@ -3,7 +3,7 @@ title: "Exploring Windows Sandbox Part 01"
 date: 2025-04-10 00:00:00 +0800
 category: [Cyber Blog, Hackers Lab]
 tags: [Lab set up, Windows]
-image: Images\Blog\Windows\Windows-Sandbox-icon.webp
+image: Images/Blog/Windows/Windows-Sandbox-icon.webp
 alt: "windows sandbox"
 ---
 # Exploring Windows Sandbox: A Secure Testing Environment for Cybersecurity Enthusiasts
@@ -80,7 +80,7 @@ Restart your computer after the command completes.
 
 Once installed, you can launch Windows Sandbox from the Start Menu by typing **Windows Sandbox**.
 
-[winsandbox](Images\Blog\Windows\winsandbox.png)
+[winsandbox](Images/Blog/Windows/winsandbox.png)
 
 ## Learn More
 
