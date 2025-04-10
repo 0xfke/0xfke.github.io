@@ -80,7 +80,7 @@ Restart your computer after the command completes.
 
 Once installed, you can launch Windows Sandbox from the Start Menu by typing **Windows Sandbox**.
 
-[winsandbox](Images/Blog/Windows/winsandbox.png)
+![winsandbox](Images/Blog/Windows/winsandbox.png)
 
 ## Learn More
 
