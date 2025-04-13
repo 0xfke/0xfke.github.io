@@ -11,6 +11,11 @@ alt: "aastu-ctf"
 **Level**: Intermediate  🟡
 **Technique**: Audio Spectrogram Steganography (Text-based)  
 **Tool**: [Sonic Visualizer](https://www.sonicvisualiser.org/)
+**Point: 200**
+
+**Description:**
+
+The hidden message lies within the frequencies of the audio. Start by examining the spectral data of the .wav file, and listen closely for any patterns or anomalies that might reveal something hidden in plain sight. Could subtle changes in the waves be the key to unlocking the truth?
 
 ### Concept Behind the Challenge
 
