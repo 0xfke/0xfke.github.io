@@ -1,12 +1,12 @@
 ---
-title: "AASTU CSC CTF | Echoes of Silence"
+title: "AASTU CSC CTF | Echoes of Silence 02"
 date: 2025-04-13 00:00:00 +0800
 category: [Cyber Blog, AASTU-CSC-CTF]
 tags: [CTF, My ctf, Steganography]
 image: Images/WriteUp-Image/aastu-logo.webp
 alt: "aastu-ctf"
 ---
-# AASTU-CSC Cyber Night CTF Day 01 Walkthrough Challenge 2
+# Cyber Night CTF Day 01 Walkthrough Challenge 2
 
 **Level**: Intermediate  🟡
 **Technique**: Audio Spectrogram Steganography (Text-based)  
