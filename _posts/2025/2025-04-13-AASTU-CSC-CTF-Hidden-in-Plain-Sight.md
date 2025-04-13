@@ -2,8 +2,8 @@
 title: "AASTU CSC CTF | Hidden in Plain Sight"
 date: 2025-04-13 00:00:00 +0800
 category: [Cyber Blog, AASTU-CSC-CTF]
-tags: [CTF, My ctf, Windows]
-image: Images\WriteUp-Image\aastu-logo.webp
+tags: [CTF, My ctf]
+image: Images/WriteUp-Image/aastu-logo.webp
 alt: "aastu-ctf"
 ---
 
