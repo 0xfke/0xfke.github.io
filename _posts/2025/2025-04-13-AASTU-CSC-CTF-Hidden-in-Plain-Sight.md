@@ -7,7 +7,7 @@ image: Images/WriteUp-Image/aastu-logo.webp
 alt: "aastu-ctf"
 ---
 
-# AASTU-CSC Cyber Night CTF Day 01 Walkthrough Challenge 1
+# Cyber Night CTF Day 01 Walkthrough Challenge 1
 
 **Level**: Easy 🟢
 **Technique**:  EXIF-based Steganography
@@ -24,7 +24,7 @@ In this challenge, the **flag** is hidden inside the **metadata of an image** fi
 
 EXIF metadata is often **overlooked in publicly posted files** on social media, blogs, or websites. Attackers may use EXIF-based steganography to embed covert messages in **images** shared online, making it harder to detect at first glance. For **OSINT (Open-Source Intelligence)** gathering, analyzing metadata from publicly available images can provide critical information — from hidden messages to **location data** or even **timestamps** that reveal more about a target.
 
-![flag1](Images/WriteUp-Image/flag1.png)
+![flag1](Images/WriteUp-Image/flag1.1.png)
 
 This string looks like it is encrypted using base64 from the structure at the end "=". taking it and decoding it gives us our first flag.
 
