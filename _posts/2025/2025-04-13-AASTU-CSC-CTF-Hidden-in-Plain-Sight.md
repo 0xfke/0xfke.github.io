@@ -12,6 +12,12 @@ alt: "aastu-ctf"
 **Level**: Easy 🟢
 **Technique**:  EXIF-based Steganography
 **Tool**: [Exiftool](https://github.com/exiftool/exiftool)
+**Point: 100**
+
+**Description:**
+
+What if your eyes are missing more than just pixels? Within an ordinary file lies an extraordinary secret. Steganography hides messages in plain sight — can you spot the hidden truth?
+
 ### Concept Behind the Challenge
 
 #### 💡 What Is EXIF-based Steganography?
