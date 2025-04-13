@@ -8,10 +8,11 @@ alt: "aastu-ctf"
 ---
 # Cyber Night CTF Day 01 Walkthrough Challenge 2
 
-**Level**: Intermediate  🟡
-**Technique**: Audio Spectrogram Steganography (Text-based)  
-**Tool**: [Sonic Visualizer](https://www.sonicvisualiser.org/)
-**Point: 200**
+**Level**: Intermediate  🟡 <br>
+**Challenge Link**:[Echoes of silence](https://t.me/AASTU_CyberClub/151) 
+**Technique**: Audio Spectrogram Steganography (Text-based)  <br>
+**Tool**: [Sonic Visualizer](https://www.sonicvisualiser.org/) <br>
+**Point: 200** <br>
 
 **Description:**
 
