@@ -9,10 +9,11 @@ alt: "aastu-ctf"
 
 # Cyber Night CTF Day 01 Walkthrough Challenge 1
 
-**Level**: Easy 🟢
-**Technique**:  EXIF-based Steganography
-**Tool**: [Exiftool](https://github.com/exiftool/exiftool)
-**Point: 100**
+**Level**: Easy 🟢 <br>
+**Challenge Link**: [Hidden in plain sight](https://t.me/AASTU_CyberClub/150) <br>
+**Technique**:  EXIF-based Steganography <br>
+**Tool**: [Exiftool](https://github.com/exiftool/exiftool) <br>
+**Point: 100** <br>
 
 **Description:**
 
