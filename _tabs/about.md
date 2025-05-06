@@ -52,5 +52,5 @@ I’m a self-taught cybersecurity researcher, penetration tester, and ethical ha
 
 ## Latest Youtube Video
 
-{% include embed/youtube.html id='hKhCP_sUQ3g' %}
+{% include embed/youtube.html id='vr5ePoAKJRA' %}
 
